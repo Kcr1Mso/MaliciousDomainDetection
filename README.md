@@ -7,7 +7,7 @@ Requirements
 - scapy==2.4.3
 - scikit_learn==0.22
  
-accuracy_score： 0.9408 
-precision_score： 0.9258
-recall_score： 0.9566
+accuracy_score： 0.9408  
+precision_score： 0.9258  
+recall_score： 0.9566  
 f1_score： 0.9409
